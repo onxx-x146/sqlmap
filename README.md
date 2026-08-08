@@ -14,7 +14,7 @@ Installation
 ---
 ```
 $ git clone https://github.com/onxx-x146/sqlmap.git
-$ cd atlas
+$ cd sqlmap
 $ python onxx.py
 ```
 

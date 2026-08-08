@@ -1,6 +1,6 @@
 Onxx - Quick SQLMap By hari Jadhav 🦅 
 ---
-
+![install](https://files.catbox.moe/c2xm8a.gif)
 __Onxx__ is an open source tool that can suggest sqlmap tampers to bypass WAF/IDS/IPS, the tool is based on returned status code.
 
 

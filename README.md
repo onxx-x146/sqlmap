@@ -7,7 +7,7 @@ __Onxx__ is an open source tool that can suggest sqlmap tampers to bypass WAF/ID
 Installation
 ---
 ```
-wget https://github.com/onxx-x146/unx/raw/refs/heads/main/install.tar.gz
+wget https://github.com/onxx-x146/sqlmap/raw/refs/heads/main/install.tar.gz
 ```
 # In 
 ```

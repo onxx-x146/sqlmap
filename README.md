@@ -1,14 +1,8 @@
-Atlas - Quick SQLMap By hari Jadhav 🫅🏻 v1.0
+Onxx - Quick SQLMap By hari Jadhav 🫅🏻 v1.0
 ---
 
-__Atlas__ is an open source tool that can suggest sqlmap tampers to bypass WAF/IDS/IPS, the tool is based on returned status code.
+__Onxx__ is an open source tool that can suggest sqlmap tampers to bypass WAF/IDS/IPS, the tool is based on returned status code.
 
-![atlas_main](https://i.imgur.com/G2bXF3A.png)
-
-
-Screen
----
-![atlas_run](https://i.imgur.com/I6cXSKd.png)
 
 Installation
 ---

@@ -8,7 +8,7 @@ Installation
 ---
 ```
 git clone https://github.com/onxx-x146/sqlmap.git
-cd sqLmap
+cd sqlmap
 chmod +x onxx.py
 python onxx.py
 ```

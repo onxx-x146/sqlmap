@@ -17,7 +17,8 @@ print(r"""
 ██    ██ ██ ██  ██   ███
 ██    ██ ██  ██ ██  ██ ██
  ██████  ██   ████ ██   ██
-    BY ONXX 🫅🏻 IG _insrnx_
+    BY ONXX 🫅🏻 
+    Follow __.l2l__
 """)
 print("\033[0m")
 
